@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  overtime_work_info: one
+  start_time: 2023-07-23 15:26:15
+  end_time: 2023-07-23 15:26:15
+  start_substitute_holiday: 2023-07-23 15:26:15
+  end_substitute_holiday: 2023-07-23 15:26:15
+
+two:
+  user: two
+  overtime_work_info: two
+  start_time: 2023-07-23 15:26:15
+  end_time: 2023-07-23 15:26:15
+  start_substitute_holiday: 2023-07-23 15:26:15
+  end_substitute_holiday: 2023-07-23 15:26:15

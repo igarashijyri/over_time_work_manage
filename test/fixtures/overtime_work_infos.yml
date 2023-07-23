@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  reason: MyString
+  reject_reason: MyString
+  division: MyString
+
+two:
+  user: two
+  reason: MyString
+  reject_reason: MyString
+  division: MyString

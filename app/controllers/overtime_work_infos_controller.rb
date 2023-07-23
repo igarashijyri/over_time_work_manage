@@ -1,0 +1,2 @@
+class OvertimeWorkInfosController < ApplicationController
+end
